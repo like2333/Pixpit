@@ -1,3 +1,7 @@
+### db ###
+/doc/db/*
+/jpassport-web/src/main/resources/config/*.properties
+
 /target/
 !.mvn/wrapper/maven-wrapper.jar
 
@@ -27,4 +31,3 @@
 
 /config/
 
-### db ###
