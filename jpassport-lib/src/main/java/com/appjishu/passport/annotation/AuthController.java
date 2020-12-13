@@ -13,7 +13,7 @@ import java.lang.annotation.Target;
 @Target(ElementType.TYPE)
 @Retention(RetentionPolicy.RUNTIME)
 /** 
-* @author liushaoming(liushaomingdev@163.com)
+* @author like
 * @version 创建时间：2017年8月21日 下午10:40:49 
 * 类说明 
 * Controller需要Passport认证
