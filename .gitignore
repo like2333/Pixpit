@@ -28,5 +28,3 @@
 /config/
 
 ### db ###
-*.sql
-*.properties
