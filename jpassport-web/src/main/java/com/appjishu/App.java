@@ -5,7 +5,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * @author liushaoming
+ * @author keli
  */
 @SpringBootApplication
 @MapperScan({"com.appjishu.passport.dao", "com.appjishu.web.biz.dao"})
