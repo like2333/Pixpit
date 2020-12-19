@@ -1,4 +1,4 @@
-package com.appjishu.passport.intercepter;
+package com.appjishu.passport.interceptor;
 
 import java.io.IOException;
 import java.io.PrintWriter;
